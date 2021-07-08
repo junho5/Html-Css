@@ -1,13 +1,18 @@
 h1 {
+    font-family: 'Courier New', Courier, monospace;
     font-size: 64px;
     text-align: center;
     color: rgb(97, 249, 107)
+}
+h2 {
+    font-family: 'Noto Sans TC', sans-serif;
 }
 h3 {
     margin-top: 80px;
 }
 p i {
     font-size: 30px;
+    font-weight: 600;
 }
 img{
     display: block;
@@ -22,4 +27,13 @@ img{
 }
 #best-text{
     color: #61f96b;
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    text-align: center;
+}
+.red{
+    color: red;
 }
