@@ -37,3 +37,7 @@ a{
 .red{
     color: red;
 }
+.p1{
+    border: 5px solid green;
+    border-radius: 10px;
+}
