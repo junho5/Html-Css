@@ -38,6 +38,9 @@
     margin-bottom: 30px;
     color: white;
   }
+  .submit-btn:hover{
+    box-shadow: 0 2px 4px 0 #1BBC9B;
+  }
   
   .links {
     text-align: center;
