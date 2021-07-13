@@ -58,3 +58,27 @@ a{
     margin-left: auto;
     margin-right: auto;
 }
+.quote {
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    font-family: 'Nanum Pen Script', cursive;
+    margin-top: 75px;
+  }
+  
+  .figure {
+    margin-top: 50px;
+  }
+  .qmark{
+    font-size: 3em;
+    position: relative;
+  }
+  
+  .open{
+    margin-right: 15px;
+    top: 20px;
+  }
+  .close{
+    margin-left: 15px;
+    top: 80px;
+  }
