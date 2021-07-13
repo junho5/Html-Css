@@ -1,0 +1,25 @@
+.env-div {
+    width: 500px;
+    height: 232px;
+    position: relative;
+  }
+  
+  .address {
+    font-family: cursive;
+  }
+  
+  .stamp{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+  }
+  
+  .address{
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+  }
+  /*
+  이곳에 코드를 작성하세요.
+  */
+  
