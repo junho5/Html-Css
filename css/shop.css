@@ -78,5 +78,9 @@ body {
 }
 /* footer */
 .sns{
+  height: 20px;
   text-align: center;
+}
+.sns img{
+  margin: 120px 20px 80px 0px;
 }
